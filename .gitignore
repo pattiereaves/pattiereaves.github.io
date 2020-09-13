@@ -4,3 +4,9 @@ npm-debug.log
 node_modules
 npm-debug.log
 .idea
+.next
+.next/BUILD_ID
+.next/build-manifest.json
+.next/records.json
+.next/server/pages-manifest.json
+.next/server/records.json
