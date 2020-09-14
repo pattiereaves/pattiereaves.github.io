@@ -10,3 +10,4 @@ npm-debug.log
 .next/records.json
 .next/server/pages-manifest.json
 .next/server/records.json
+out/
