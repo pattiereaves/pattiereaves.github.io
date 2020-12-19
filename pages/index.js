@@ -2,6 +2,7 @@ import Head from 'next/head';
 import { FiTwitter } from 'react-icons/fi';
 import { FaGithubAlt, FaLinkedinIn } from 'react-icons/fa';
 import { GrWordpress } from 'react-icons/gr';
+import { MdEmail } from 'react-icons/md';
 
 const Index = () => (
   <>
@@ -23,7 +24,7 @@ const Index = () => (
     <h2 id="passions">
       Things that light me up, 🎆 in no particular order
     </h2>
-    <ul aria-aria-labelledby="passions">
+    <ul aria-labelledby="passions">
       <li>
         Making the Web accessible and teaching others to do the same. (🚧 I will add to this section!)
       </li>
@@ -44,6 +45,9 @@ const Index = () => (
       </li>
       <li>
         Semi-related, being active in the <GrWordpress /> WordPress community. WordPress was the first community where I felt truly welcome as a young developer, and that inclusiveness is what makes the project so strong. I'm a co-organizer of the <a href="https://www.meetup.com/Tucson-WordPress-Meetup/">Tucson WordPress meetup group</a>.
+      </li>
+      <li>
+        Breaking down white supremacy and the patriarchy ✊✊🏿✊🏾✊.
       </li>
       <li>
         Endurance sports. I'm a <abbr title="Road Runners Club of America">RRCA</abbr> <a href="https://www.rrca.org/">certified running coach</a> and I coach with <a href="https://swet.run">Southwest Endurance Training</a>. It's my dream to complete an Ironman triathlon before 2025.
@@ -72,6 +76,12 @@ const Index = () => (
           <a href="https://www.linkedin.com/in/pattiereaves/">
             <span className="sr-only">LinkedIn - @PattieReaves</span>
             <FaLinkedinIn />
+          </a>
+        </li>
+        <li>
+          <a href="mailto:pattie@pzunk.net">
+            <span className="sr-only">Email</span>
+            <MdEmail/>
           </a>
         </li>
       </ul>
