@@ -17,12 +17,12 @@ const Index = () => (
     <h2 className="sr-only" id="introduction">Introduction</h2>
     <section aria-labelledby="introduction">
       <p>
-        I'm a <abbr title="User Experience">UX</abbr> developer based in Tucson, Arizona 🌵. I love to work at the intersection of usability and engineering.
+        I'm a JavaScript developer based in Tucson, Arizona 🌵. I love to work at the intersection of user experience and software engineering.
       </p>
     </section>
     <hr />
     <h2 id="passions">
-      Things that light me up, 🎆 in no particular order
+      Topics that light me up 🔥 (in no particular order)
     </h2>
     <ul aria-labelledby="passions">
       <li>
@@ -32,10 +32,10 @@ const Index = () => (
         Agile software development, especially <a href="https://www.scruminc.com/scrum-training/">scrum at scale</a>.
       </li>
       <li>
-        <a href="http://twoscrumsup.com/991378/4981433-16-no-bosses%E2%80%A6">Peer coaching, and helping others be excellent coaches.</a>
+        <a href="http://twoscrumsup.com/991378/4981433-16-no-bosses%E2%80%A6">Peer coaching, and helping other software engineers be excellent at their jobs.</a>
       </li>
       <li>
-        Doing cool stuff ✨ using JavaScript (<a href="https://github.com/pattiereaves?tab=overview&">these days, it's mostly React</a>).
+        Solving <a href="https://twoscrumsup.com/991378/6087712-27-the-power-of-spikes">>hard problems</a> ✨ using JavaScript (<a href="https://github.com/pattiereaves?tab=overview&">these days, it's mostly React</a>).
       </li>
       <li>
         Journalism, democracy, and the success of local media especially. Early in my career I worked at <a aria-label="The Sun Sentinel, where I worked first" href="http://sunsentinel.com">a</a> <a aria-label="The Sun Journal, where I worked next" href="http://sunjournal.com">few</a> <a aria-label="The Bangor Daily News, the newspaper I worked at most recently" href="https://bangordailynews.com">newspapers</a>.
