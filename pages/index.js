@@ -41,9 +41,6 @@ const Index = () => (
         Journalism, democracy, and the success of local media especially. Early in my career I worked at <a aria-label="The Sun Sentinel, where I worked first" href="http://sunsentinel.com">a</a> <a aria-label="The Sun Journal, where I worked next" href="http://sunjournal.com">few</a> <a aria-label="The Bangor Daily News, the newspaper I worked at most recently" href="https://bangordailynews.com">newspapers</a>.
       </li>
       <li>
-        Creating tools that enable journalists to do amazing work (and/or reach communities with their amazing work).
-      </li>
-      <li>
         Semi-related, being active in the <GrWordpress /> WordPress community. WordPress was the first community where I felt truly welcome as a young developer, and that inclusiveness is what makes the project so strong. I'm a co-organizer of the <a href="https://www.meetup.com/Tucson-WordPress-Meetup/">Tucson WordPress meetup group</a>.
       </li>
       <li>
