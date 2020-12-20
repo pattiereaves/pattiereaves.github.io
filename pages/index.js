@@ -35,7 +35,7 @@ const Index = () => (
         <a href="http://twoscrumsup.com/991378/4981433-16-no-bosses%E2%80%A6">Peer coaching, and helping other software engineers be excellent at their jobs.</a>
       </li>
       <li>
-        Solving <a href="https://twoscrumsup.com/991378/6087712-27-the-power-of-spikes">>hard problems</a> ✨ using JavaScript (<a href="https://github.com/pattiereaves?tab=overview&">these days, it's mostly React</a>).
+        Solving <a href="https://twoscrumsup.com/991378/6087712-27-the-power-of-spikes">hard problems</a> ✨ using JavaScript (<a href="https://github.com/pattiereaves?tab=overview&">these days, it's mostly React</a>).
       </li>
       <li>
         Journalism, democracy, and the success of local media especially. Early in my career I worked at <a aria-label="The Sun Sentinel, where I worked first" href="http://sunsentinel.com">a</a> <a aria-label="The Sun Journal, where I worked next" href="http://sunjournal.com">few</a> <a aria-label="The Bangor Daily News, the newspaper I worked at most recently" href="https://bangordailynews.com">newspapers</a>.
