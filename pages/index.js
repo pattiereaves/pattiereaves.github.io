@@ -32,7 +32,7 @@ const Index = () => (
         Agile software development, especially <a href="https://www.scruminc.com/scrum-training/">scrum at scale</a>.
       </li>
       <li>
-        <a href="http://twoscrumsup.com/991378/4981433-16-no-bosses%E2%80%A6">Peer coaching, and helping other software engineers be excellent at their jobs.</a>
+        <a href="http://twoscrumsup.com/991378/4981433-16-no-bosses%E2%80%A6">Peer coaching</a>, and helping other software engineers be excellent at their jobs.
       </li>
       <li>
         Solving <a href="https://twoscrumsup.com/991378/6087712-27-the-power-of-spikes">hard problems</a> ✨ using JavaScript (<a href="https://github.com/pattiereaves?tab=overview&">these days, it's mostly React</a>).
