@@ -20,10 +20,13 @@ const LeanIn = () => {
     'IF you could ask for anything, what would you ask for and from whom?',
     'How would your closest friend describe you?',
     'What are three things you most value? How does your daily routine align with these values?',
-    'Who has had an impact on your life that you havent thanked? Why?',
-    'What makes you hapy'
+    'Who has had an impact on your life that you haven\'t thanked? Why?',
+    'What makes you happy?'
   ]
-  const getQuestion =
+  const getQuestion = () => {
+    const randomIndex = Math.floor(Math.random() * questions.length);
+    setQuestion(questions[randomIndex]);
+  }
 
   return (
     <>

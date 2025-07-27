@@ -1,5 +1,9 @@
-const withFonts = require('next-fonts');
+const isProd = process.env.NODE_ENV === 'production';
 
-module.exports = withFonts({
-  assetPrefix: ".",
-});
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  assetPrefix: isProd ? '.' : '',
+  output: 'export',
+};
+
+module.exports = nextConfig;
