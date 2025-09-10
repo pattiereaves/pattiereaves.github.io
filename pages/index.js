@@ -19,17 +19,33 @@ const Index = () => (
         I am a seasoned full-stack engineer based in Tucson, Arizona 🌵.
         I lead with heart while delivering results.
       </p>
+      <p>
+        Currently I work at <a href="https://pmc.com">Penske Media Corporation</a> as <a href="https://www.linkedin.com/in/pattiereaves/">Associate Director of Revenue Technology</a>.
+        My team is responsible for building and maintaining ad products for 30 brands and 1500+ publishers.
+        My time there will end on Dec. 31, 2025 and I am looking for a new role.
+      </p>
     </section>
     <hr />
+    <h2 id="what-i-am-looking-for">Help me find a job</h2>
+    <p>
+      I'm looking for an engineering manager position at a growth-stage technology company where I can lead a cross-functional team of engineers while having direct accountability for team output and product delivery.
+    </p>
+    <p>
+      My ideal role leverages my expertise in frontend development, accessibility, and ad/publishing technology while providing opportunities to mentor engineers and drive technical excellence.
+    </p>
+    <p>
+      The ideal company has a strong engineering culture that values collaboration, continuous learning, and building inclusive products that solve meaningful problems for people.
+    </p>
+    <hr />
     <h2 id="passions">
-      Topics that light me up 🔥 (in no particular order)
+      Topics that light me up 🔥
     </h2>
     <ul aria-labelledby="passions">
       <li>
         Solving <a href="https://twoscrumsup.com/991378/6087712-27-the-power-of-spikes">hard problems</a> ✨ using JavaScript/TypeScript and PHP.
       </li>
       <li>
-        Making the Web accessible and teaching others to do the same.
+        Making the Web accessible and <a href="https://publishers.wordcamp.org/2018-chicago/sessions/#wcorg-session-595">teaching others</a> to do the same.
       </li>
       <li>
         Agile software development, especially <a href="https://www.scruminc.com/scrum-training/">scrum at scale</a>.
@@ -48,6 +64,12 @@ const Index = () => (
       </li>
     </ul>
     <hr />
+    <h2 id="about-this-site">
+      About this site
+    </h2>
+    <p>
+      This site was built with Next.js and is <a href="https://github.com/pattiereaves/pattiereaves.github.io">open source</a>. It is hosted on Github Pages.
+    </p>
     <footer aria-label="Site">
       <h2 id="social">Contact me</h2>
       <ul aria-labelledby="social" className="inline-list">
