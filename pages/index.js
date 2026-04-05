@@ -6,7 +6,7 @@ import { MdEmail } from 'react-icons/md';
 const Index = () => (
   <>
   <Head>
-    <title>Pattie Reaves, Lead Engineer</title>
+    <title>Pattie Reaves, Engineering Leader</title>
     <link rel="shortcut icon" href="/unicorn.png" />
   </Head>
   <header aria-label="Site">
@@ -20,21 +20,23 @@ const Index = () => (
         I lead with heart while delivering results.
       </p>
       <p>
-        Currently I work at <a href="https://pmc.com">Penske Media Corporation</a> as <a href="https://www.linkedin.com/in/pattiereaves/">Associate Director of Revenue Technology</a>.
-        My team is responsible for building and maintaining ad products for 30 brands and 1500+ publishers.
-        My time there will end on Dec. 31, 2025 and I am looking for a new role.
+        Currently, I work as a senior software engineer at a series A
+        startup, <a href="https://www.hummingbirds.com/">Hummingbirds</a>. I'm building
+        a platform for brands to connect with creators to drive real results
+        through word-of-mouth marketing.
       </p>
     </section>
     <hr />
-    <h2 id="what-i-am-looking-for">Help me find a job</h2>
+    <h2 id="roles-that-interest-me">Roles that interest me</h2>
     <p>
-      I'm looking for an engineering manager position at a growth-stage technology company where I can lead a cross-functional team of engineers while having direct accountability for team output and product delivery.
+      I&apos;m drawn to engineering leadership positions at growth-stage companies — roles where I can lead a
+      cross-functional team of engineers while having direct accountability for team output and product delivery.
     </p>
     <p>
-      My ideal role leverages my expertise in frontend development, accessibility, and ad/publishing technology while providing opportunities to mentor engineers and drive technical excellence.
+      I&apos;m especially interested in opportunities that leverage my background in frontend development, accessibility, and ad/publishing technology.
     </p>
     <p>
-      The ideal company has a strong engineering culture that values collaboration, continuous learning, and building inclusive products that solve meaningful problems for people.
+      I value companies with a strong engineering culture built on collaboration, continuous learning, and building inclusive products that solve meaningful problems for people.
     </p>
     <hr />
     <h2 id="passions">
