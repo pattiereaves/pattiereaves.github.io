@@ -20,10 +20,7 @@ const Index = () => (
         I lead with heart while delivering results.
       </p>
       <p>
-        Currently, I work as a senior software engineer at a series A
-        startup, <a href="https://www.hummingbirds.com/">Hummingbirds</a>. I'm building
-        a platform for brands to connect with creators to drive real results
-        through word-of-mouth marketing.
+        Currently, I am an engineering manager for <a href="https://www.outsideinc.com/">Outside Inc</a>.
       </p>
     </section>
     <hr />
